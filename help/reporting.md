@@ -21,4 +21,5 @@ The following video below explains how to:
 
 ## Additional Resources
 
-* [Journey Orchestration Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [About Journey Orchestration reports](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Exploring Reports](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/reporting/exploring-reports.html)
