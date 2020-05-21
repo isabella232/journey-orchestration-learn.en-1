@@ -6,7 +6,7 @@ solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration/tutorials/overview.html
-getting-started-title: Documentation
+getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 ---
 

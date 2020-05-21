@@ -2,8 +2,8 @@
 cloud: experience-cloud
 product: journey orchestration
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/journey-orchestratio-learn.en
-index: yes
+git-repo: https://github.com/AdobeDocs/journey-orchestration-learn.en
+index: no
 ---
 
 # Metadata for internal use
