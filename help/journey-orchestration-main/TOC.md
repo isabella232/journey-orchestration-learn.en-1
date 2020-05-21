@@ -14,10 +14,9 @@ getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journ
 
 + [Overview](/help/overview.md)
 + [Understanding Journey Orchestration](/help/understanding-journey-orchestration.md)
-+ Getting started {#getting-started}
-  + [Configure streaming events](/help/configuring-journey-orchestration/configure-streaming-events.md)
-  + [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
-  + [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)
++ [Configure streaming events](/help/configuring-journey-orchestration/configure-streaming-events.md)
++ [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
++ [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)
 + [Create a journey](/help/create-a-journey.md)
 + [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
 + [Analyzing a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
