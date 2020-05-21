@@ -11,8 +11,6 @@ activity: setup
 
 # Configure [!UICONTROL streaming events]
 
-## Events
-
 [!UICONTROL Journey Orchestration] listens to events and orchestrates the best next actions within the customer's journey based on these events. An event can relate to:
 
 * An individual's direct actions (e.g., they bought a product, visited a store, or abandoned an online shopping cart), or

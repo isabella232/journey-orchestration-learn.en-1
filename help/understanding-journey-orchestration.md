@@ -9,9 +9,9 @@ doc-type: video
 activity: understand
 ---
 
-# Understanding [!UICONTROL Journey Orchestration]]
+# Understanding [!UICONTROL Journey Orchestration]
 
-## Introduction to [!UICONTROL Journey Orchestration]]
+## Introduction to [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources.
 
