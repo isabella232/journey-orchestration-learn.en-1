@@ -46,6 +46,6 @@ The main steps in preparation for building journeys are:
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [How to find help with Journey Orchestration](help/understanding-journey-orchestration.md)
+* [How to find help with Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)

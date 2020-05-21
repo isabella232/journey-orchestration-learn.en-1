@@ -19,7 +19,7 @@ products: Journey orchestration
 <table>
 <tr>
   <td>
-    <a href="./understanding-journey-orchestration">
+    <a href="./understanding-journey-orchestration.md">
       <img alt="Understanding Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
