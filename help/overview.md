@@ -28,7 +28,7 @@ products: Journey orchestration
     </a>
     </div>
     <p>
-    <em>Understand the concept of [!UICONTROL Journey Orchestration], the types of use cases it enables and the key elements of how [!UICONTROL Journey Orchestration ]works.</em>
+    <em>Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works.</em>
     <p>
   </td>
   <td>
@@ -41,7 +41,7 @@ products: Journey orchestration
     </a>
     </div>
     <p>
-    <em>Learn how to create a new journey, start with an event, use [!UICONTROL orchestrations controls] to control the flow and timing of a journey, and use actions to engage at points in the journey.</em>
+    <em>Learn how to create a new journey, start with an event, use  orchestrations controls to control the flow and timing of a journey, and use actions to engage at points in the journey.</em>
     <p>
   </td>
   <td>
