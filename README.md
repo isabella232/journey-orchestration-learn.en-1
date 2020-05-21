@@ -1,2 +1,2 @@
 # journey-orchestration-learn.en
-Tech Marketing repo for JO videos and tutorials
+Tech Marketing repo for Journey Orchestration videos and tutorials
