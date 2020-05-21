@@ -9,7 +9,7 @@ doc-type: video
 activity: setup
 ---
 
-# Configure Data Sources
+# Configure data sources
 
 [!UICONTROL Journey Orchestration] allows you to connect to Adobe Experience Platform or other third-party data sources to retrieve additional information that can be used in a journey for:
 
@@ -26,4 +26,5 @@ The following video explains how to: Configure an [!UICONTROL Experience Platfor
 
 ## Additional Resources
 
-* [Journey Orchestration Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+  * [About data sources](https://docs.adobe.com/content/help/en/journeys/using/data-source-journeys/about-data-sources.html)

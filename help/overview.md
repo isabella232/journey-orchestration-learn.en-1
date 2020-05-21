@@ -10,21 +10,20 @@ products: Journey orchestration
 
 ## What's new
 
-* **[Finding help within the Journey Orchestration interface](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[How to find help with Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)**
     <br>
     *Understand where you can quickly find answers to your questions around [!UICONTROL Journey Orchestration], how to contact support, and where to log support tickets, as well as how you can give us feedback.*
 
-
-## Staff Picks
+## Staff picks
 
 <table>
 <tr>
   <td>
-    <a href="./introduction.md"> 
+    <a href="./understanding-journey-orchestration">
       <img alt="Understanding Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
-      <a href="./communication-channels/email/profile-substitution.md">
+      <a href="./understanding-journey-orchestration.md">
     <strong>Understanding [!UICONTROL Journey Orchestration]</strong>
     </a>
     </div>
@@ -34,7 +33,7 @@ products: Journey orchestration
   </td>
   <td>
     <a href="./create-a-journey.md">
-        <img alt="Create a Journey (video)" src="../help/assets/journey34.png"/>
+        <img alt="Create a Journey (video)" src="./assets/journey34.png"/>
     </a>
     <div>
       <a href="./create-a-journey.md">
@@ -46,11 +45,11 @@ products: Journey orchestration
     <p>
   </td>
   <td>
-   <a href="./reporting.md">
+   <a href="./analyze-a-journey-via-reporting-tools.md">
       <img alt="Analyze a Journey via Reporting Tools" src="./assets/dynamic_report_journey_8.png" />
     </a>
     <div>
-      <a href="./reporting.md">
+      <a href="./analyze-a-journey-via-reporting-tools.md">
     <strong>Analyze a Journey via Reporting Tools</strong>
     </a>
     </div>
@@ -61,7 +60,7 @@ products: Journey orchestration
 </tr>
 </table>
 
-## Additional Resources
+## Additional resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)

@@ -15,7 +15,7 @@ activity: understand
 
 [!UICONTROL Journey Orchestration] allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources.
 
-[!UICONTROL Journey Orchestration] is an [!UICONTROL application service] integrated with the [!UICONTROL Experience Platform]. It provides an intelligent and open ecosystem to activate all relevant live data through scalable, event-based engagement across any channel your business requires from marketing to operations to service. [!UICONTROL Journey Orchestration] can leverage any data in Adobe [!UICONTROL Experience Platform] and any external delivery system to create and deliver compelling experiences.
+[!UICONTROL Journey Orchestration] is an [!UICONTROL application service] integrated with the Adobe Experience Platform. It provides an intelligent and open ecosystem to activate all relevant live data through scalable, event-based engagement across any channel your business requires from marketing to operations to service. [!UICONTROL Journey Orchestration] can leverage any data from the Adobe Experience Platform and any external delivery system to create and deliver compelling experiences.
 
 The video below introduces
 
@@ -25,7 +25,7 @@ The video below introduces
 
 >[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
 
-## How to Configure a journey
+## How to configure a journey
 
 The main steps in preparation for building journeys are:
 
@@ -34,18 +34,18 @@ The main steps in preparation for building journeys are:
 3. [Configure Custom Actions](/help/configuring-journey-orchestration/configure-actions.md): Required if you want to use a service from any 3rd party provider that can be called through a [!DNL REST API] with a JSON formatted payload
 
 >[!NOTE]
->These configuration steps require technical knowledge. You will need to be familiar with the [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)) and [how to compose XDM Experience EventSchemas](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>These configuration steps require technical knowledge. You will need to be familiar with the [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)) and [how to compose XDM experience event schemas](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
-## How to Create, Publish, and Analyze a Journey
+## How to create, publish, and analyze a journey
 
 1. [Create a Journey](/help/create-a-journey.md)
-2. [Validate and Publish a Journey](/help/validate-and-publish-a-journey.md)
-3. [Analyze a Journey via Reporting Tools](/help/reporting.md)
+2. [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
+3. [Analyze a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
 
-## Additional Resources
+## Additional resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-* [How to find help with Adobe Journey Orchestration](/help/journey-orchestration/how-to-find-help-with-journey-orchestration.md)
+* [How to find help with Journey Orchestration](/help/journey-orchestration/how-to-find-help-with-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)

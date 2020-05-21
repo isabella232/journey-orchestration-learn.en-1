@@ -14,11 +14,12 @@ activity: use
 The following video below explains how to:
 
 * Create a new journey and start with an event
-* Use orchestrations controls to control the flow and timing of a journey
+* Use [!UICONTROL orchestration controls] to control the flow and timing of a journey
 * Use actions to engage at points in the journey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
-## Additional Resources
+## Additional resources
 
-* [Journey Orchestration Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+  * [Creating a journey](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/journey.html)

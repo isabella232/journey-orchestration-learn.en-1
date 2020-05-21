@@ -1,5 +1,5 @@
 ---
-title: Finding help within the Journey Orchestration interface
+title: How to find help with Journey Orchestration
 description: The video explains how you can easily find help
 feature: Journey Orchestration
 topics: Help and Support
@@ -9,7 +9,7 @@ doc-type: video
 activity: understand
 ---
 
-# Finding help within the [!UICONTROL Journey Orchestration] interface
+# How to find help with [!UICONTROL Journey Orchestration]
 
 This video explains where you can quickly find answers to your questions around [!UICONTROL Journey Orchestration], how to contact support, and where to log support tickets, as well as how you can give us feedback.
 
