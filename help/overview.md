@@ -41,7 +41,7 @@ products: Journey orchestration
     </a>
     </div>
     <p>
-    <em>Learn how to create a new journey, start with an event, use  orchestrations controls to control the flow and timing of a journey, and use actions to engage at points in the journey.</em>
+    <em>Learn how to create a new journey, start with an event, use  orchestrations to control the flow and timing of a journey, and use actions to engage at points in the journey.</em>
     <p>
   </td>
   <td>
