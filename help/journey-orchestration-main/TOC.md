@@ -14,7 +14,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journ
 
 + [Overview](/help/overview.md)
 + [Understanding Journey Orchestration](/help/understanding-journey-orchestration.md)
-+ [Getting started - configurations]{#getting-started}
++ Getting started {#getting-started}
   + [Configure streaming events](/help/configuring-journey-orchestration/configure-streaming-events.md)
   + [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
   + [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)

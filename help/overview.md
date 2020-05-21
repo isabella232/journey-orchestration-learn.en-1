@@ -24,7 +24,7 @@ products: Journey orchestration
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>Understanding [!UICONTROL Journey Orchestration]</strong>
+    <strong>Understanding Journey Orchestration</strong>
     </a>
     </div>
     <p>
