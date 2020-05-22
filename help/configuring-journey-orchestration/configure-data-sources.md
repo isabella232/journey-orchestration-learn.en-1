@@ -15,12 +15,12 @@ activity: setup
 
 * Definition of conditions
 * Parameters and personalization data in actions
-* [!UICONTROL Custom timer]definition
+* [!UICONTROL Custom timer] definition
 * Custom timezone definition
 
 This configuration is not required if your journey's only leverage local data coming from an event payload.
 
-The following video explains how to: Configure an [!UICONTROL Experience Platform] data source and an external data source, as well as how to find and use data in a journey.
+The following video explains how to: Configure an Experience Platform data source and an external data source, as well as how to find and use data in a journey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 

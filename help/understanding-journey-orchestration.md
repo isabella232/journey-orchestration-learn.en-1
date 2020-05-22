@@ -15,7 +15,7 @@ activity: understand
 
 [!UICONTROL Journey Orchestration] allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources.
 
-[!UICONTROL Journey Orchestration] is an [!UICONTROL application service] integrated with the Adobe Experience Platform. It provides an intelligent and open ecosystem to activate all relevant live data through scalable, event-based engagement across any channel your business requires from marketing to operations to service. [!UICONTROL Journey Orchestration] can leverage any data from the Adobe Experience Platform and any external delivery system to create and deliver compelling experiences.
+[!UICONTROL Journey Orchestration] is an application service integrated with the Adobe Experience Platform. It provides an intelligent and open ecosystem to activate all relevant live data through scalable, event-based engagement across any channel your business requires from marketing to operations to service. [!UICONTROL Journey Orchestration] can leverage any data from the Adobe Experience Platform and any external delivery system to create and deliver compelling experiences.
 
 The video below introduces
 
