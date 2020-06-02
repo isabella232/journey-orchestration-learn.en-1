@@ -12,11 +12,11 @@ activity: setup
 
 # Configure [!UICONTROL custom actions]
 
-[!UICONTROL Actions] are the touchpoint in [!UICONTROL Journey Orchestration] through which you deliver personalized, real-time experiences to individuals. These can include traditional messaging channels, such as [!UICONTROL push notifications], email, or SMS, or any other means of digital engagement you use in your business.
+[!UICONTROL Actions] are the touch-point in [!UICONTROL Journey Orchestration] through which you deliver personalized, real-time experiences to individuals. These can include traditional messaging channels, such as push notifications, email, or SMS, or any other means of digital engagement you use in your business.
 
-Any service from any provider that can be called through a [!DNL REST API] with a [!DNL JSON]-formatted payload can be configured as an [!UICONTROL action] in [!UICONTROL Journey Orchestration].
+Any service from any provider that can be called through a REST API with a JSON-formatted payload can be configured as an [!UICONTROL Action] in [!UICONTROL Journey Orchestration].
 
-The following video explains how to configure an [!UICONTROL action] for [!UICONTROL Journey Orchestration] and how to use it in a journey.
+The following video explains how to configure an [!UICONTROL Action] for [!UICONTROL Journey Orchestration] and how to use it in a journey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
