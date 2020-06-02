@@ -4,6 +4,7 @@ description: This video explains how to configure XDM schemas and datasets for J
 feature: Journey Orchestration
 topics: Events
 kt: 3731
+thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup

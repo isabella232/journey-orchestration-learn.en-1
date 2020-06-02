@@ -4,6 +4,7 @@ description: You can test your journey before its publication, using test profil
 feature: Journey Orchestration
 topics: Test and publish a journey
 kt: 2778
+thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use

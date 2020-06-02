@@ -4,6 +4,7 @@ description: The following video below explains how to create a new journey, sta
 feature: Journey Orchestration
 topics: Create a journey
 kt: 2789
+thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use

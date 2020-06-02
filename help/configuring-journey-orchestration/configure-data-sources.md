@@ -4,6 +4,7 @@ description: Journey Orchestration allows you to connect to the Adobe Experience
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
+thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup

@@ -4,6 +4,7 @@ description:  Understand the concept of Journey Orchestration, the types of use 
 feature: Journey Orchestration
 topics: Introduction
 kt: 2773
+thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand

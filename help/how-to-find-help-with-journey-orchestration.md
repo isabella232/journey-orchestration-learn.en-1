@@ -4,6 +4,7 @@ description: The video explains how you can easily find help
 feature: Journey Orchestration
 topics: Help and Support
 kt: 4019
+thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand

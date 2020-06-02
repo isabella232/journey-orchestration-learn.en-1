@@ -4,6 +4,7 @@ description: The video explains how to configure an Action for Journey Orchestra
 feature: Journey Orchestration
 topics: Custom Actions
 kt: 2775
+thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
