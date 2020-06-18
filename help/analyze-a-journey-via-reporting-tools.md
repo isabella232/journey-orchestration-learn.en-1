@@ -4,7 +4,7 @@ description: This tutorial explains how to navigate to reporting for your journe
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
-thumbnail: 29321
+thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
