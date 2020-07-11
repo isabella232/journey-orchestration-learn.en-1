@@ -20,4 +20,5 @@ getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journ
 + [Create a journey](/help/create-a-journey.md)
 + [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
 + [Analyzing a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
++ [Reporting journey step events to Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [How to find help with Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
