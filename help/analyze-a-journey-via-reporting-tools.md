@@ -23,4 +23,4 @@ The following video below explains how to:
 ## Additional Resources
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-  * [About Journey Orchestration reports](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [About Journey Orchestration reports](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
