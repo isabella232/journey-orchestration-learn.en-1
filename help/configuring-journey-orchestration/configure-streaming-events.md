@@ -20,6 +20,7 @@ activity: setup
 [!UICONTROL Journey Orchestration] events are [!UICONTROL XDM experience events] that are sent to the Adobe Experience Platform via [!UICONTROL streaming ingestion].
 
 >[!NOTE]
+>
 >You will need to be familiar with:
 >
 >* [The Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
@@ -30,7 +31,6 @@ activity: setup
 >
 >* [Adobe Experience Platform Mobile SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/en/places/using/home.html)
->
   
 ## How to configure [!UICONTROL streaming events]
 
