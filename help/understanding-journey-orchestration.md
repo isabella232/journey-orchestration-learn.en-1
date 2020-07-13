@@ -31,17 +31,18 @@ The video below introduces
 The main steps in preparation for building journeys are:
 
 1. [Configure Streaming Events](/help/configuring-journey-orchestration/configure-streaming-events.md) - This configuration is mandatory, as [!UICONTROL Journey Orchestration] is designed to listen to events.
-2. [Configure Data Sources](/help/configuring-journey-orchestration/configure-data-sources.md) - This configuration is not required if your journeys only leverage local data coming from an event payload.
-3. [Configure Custom Actions](/help/configuring-journey-orchestration/configure-actions.md): Required if you want to use a service from any 3rd party provider that can be called through a [!DNL REST API] with a JSON formatted payload
+1. [Configure Data Sources](/help/configuring-journey-orchestration/configure-data-sources.md) - This configuration is not required if your journeys only leverage local data coming from an event payload.
+1. [Configure Custom Actions](/help/configuring-journey-orchestration/configure-actions.md): Required if you want to use a service from any 3rd party provider that can be called through a [!DNL REST API] with a JSON formatted payload
 
 >[!NOTE]
->These configuration steps require technical knowledge. You will need to be familiar with the [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)) and [how to compose XDM experience event schemas](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
+>
+>These configuration steps require technical knowledge. You will need to be familiar with the [Experience Data Model (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) and [how to compose XDM experience event schemas](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html).
 
 ## How to create, publish, and analyze a journey
 
 1. [Create a Journey](/help/create-a-journey.md)
-2. [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
-3. [Analyze a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
+1. [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
+1. [Analyze a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
 
 ## Additional resources
 
