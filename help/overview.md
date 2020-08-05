@@ -10,9 +10,12 @@ products: Journey orchestration
 
 ## What's new
 
-* **[How to find help with Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Reporting journey step events to Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
     <br>
-    *Understand where you can quickly find answers to your questions around [!UICONTROL Journey Orchestration], how to contact support, and where to log support tickets, as well as how you can give us feedback.*
+    *Learn what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.*
+* **[Using segment qualification events](help/using-segment-qualification-events.md)**
+    <br>
+    *This video gives you a brief introduction on how to create a journey with a Segment Qualification event as entry or exit point.*
 
 ## Staff picks
 

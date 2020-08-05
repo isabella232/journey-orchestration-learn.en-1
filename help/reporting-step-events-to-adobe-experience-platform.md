@@ -1,6 +1,6 @@
 ---
 title: Reporting journey step events to Adobe Experience Platform 
-description: This tutorial explains how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.
+description: The following video explains what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
