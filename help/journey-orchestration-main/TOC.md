@@ -15,7 +15,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journ
 + [Overview](/help/overview.md)
 + [Understanding Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Configure streaming events](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [Using segment qualification events](help/using-segment-qualification-events.md)
++ [Using segment qualification events](/help/using-segment-qualification-events.md)
 + [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)
 + [Create a journey](/help/create-a-journey.md)
