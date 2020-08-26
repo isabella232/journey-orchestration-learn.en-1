@@ -10,7 +10,7 @@ products: Journey orchestration
 
 ## What's new
 
-* **[Reporting journey step events to Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Reporting journey step events to Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
     <br>
     *Learn what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.*
 * **[Using segment qualification events](/help/using-segment-qualification-events.md)**
