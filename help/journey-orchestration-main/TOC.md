@@ -1,6 +1,7 @@
 ---
 product: journey orchestration
 user-guide-title: Journey Orchestration Tutorials
+user-guide-description: Learn how to configure, create, publish, and analyze a journey.
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
