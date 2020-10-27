@@ -1,6 +1,8 @@
 ---
 cloud: experience-cloud
 product: journey orchestration
+solution: Journey Orchestration
+type: Tutorial
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/journey-orchestration-learn.en
 index: no
