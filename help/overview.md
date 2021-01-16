@@ -32,11 +32,11 @@ products: Journey orchestration
     <p>
   </td>
   <td>
-    <a href="./create-a-journey.md">
+    <a href="./building-a-journey/creating-a-journey.md">
         <img alt="Create a Journey (video)" src="./assets/journey34.png"/>
     </a>
     <div>
-      <a href="./create-a-journey.md">
+      <a href="./building-a-journey/creating-a-journey.md">
     <strong>Create a Journey (video)</strong>
     </a>
     </div>
