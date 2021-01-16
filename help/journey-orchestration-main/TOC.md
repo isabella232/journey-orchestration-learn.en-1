@@ -19,7 +19,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journ
 + [Using segment qualification events](/help/using-segment-qualification-events.md)
 + [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Configure actions](/help/configuring-journey-orchestration/configure-actions.md)
-+ Building a journey {#building-a-journey}
++ Build a journey {#building-a-journey}
   + [Creating a journey](/help/building-a-journey/creating-a-journey.md)
   + [Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)
 + [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
