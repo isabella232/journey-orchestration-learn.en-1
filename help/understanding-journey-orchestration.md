@@ -40,7 +40,7 @@ The main steps in preparation for building journeys are:
 
 ## How to create, publish, and analyze a journey
 
-1. [Create a Journey](/help/create-a-journey.md)
+1. [Create a Journey](/help/building-a-journey/creating-a-journey.md)
 1. [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
 1. [Analyze a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
 

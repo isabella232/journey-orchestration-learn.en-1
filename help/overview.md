@@ -10,12 +10,9 @@ products: Journey orchestration
 
 ## What's new
 
-* **[Reporting journey step events to Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)**
     <br>
-    *Learn what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.*
-* **[Using segment qualification events](/help/using-segment-qualification-events.md)**
-    <br>
-    *This video gives you a brief introduction on how to create a journey with a Segment Qualification event as entry or exit point.*
+    *Learn how to push individuals from one journey to another.*
 
 ## Staff picks
 
