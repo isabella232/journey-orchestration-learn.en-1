@@ -9,6 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
+level: Beginner
 ---
 
 # Journey Orchestration Tutorials {#tutorials}

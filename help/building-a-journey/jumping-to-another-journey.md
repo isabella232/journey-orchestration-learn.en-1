@@ -1,7 +1,7 @@
 ---
 title: Jumping to another journey
 description: Learn how to push individuals from one journey to another. 
-feature: Journey Orchestration
+feature: Journeys
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,6 +9,7 @@ audience: user
 doc-type: video
 activity: use
 team: PM
+role: Business Practitioner, Administrator
 ---
 
 # Jumping to another journey

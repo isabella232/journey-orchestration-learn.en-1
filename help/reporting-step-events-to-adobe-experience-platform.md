@@ -1,13 +1,14 @@
 ---
 title: Reporting journey step events to Adobe Experience Platform 
-description: The following video explains what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.
-feature: Journey Orchestration
+description: Understand what journey step events are and which data steps are and how to explore them.
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Business Practitioner, Administrator
 ---
 
 # Reporting step events to [!UICONTROL Adobe Experience Platform ]

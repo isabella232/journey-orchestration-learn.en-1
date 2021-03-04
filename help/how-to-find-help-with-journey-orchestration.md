@@ -1,13 +1,14 @@
 ---
 title: How to find help with Journey Orchestration
-description: The video explains how you can easily find help
-feature: Journey Orchestration
+description: Understand how you can easily find help
+feature: Overview
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
+role: Business Practitioner, Administrator
 ---
 
 # How to find help with [!UICONTROL Journey Orchestration]

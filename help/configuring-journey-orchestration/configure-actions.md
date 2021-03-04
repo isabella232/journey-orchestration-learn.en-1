@@ -1,13 +1,14 @@
 ---
 title: Configure Actions for Adobe Journey Orchestration
-description: The video explains how to configure an Action for Journey Orchestration and how to use it in a journey.
-feature: Journey Orchestration
+description: Learn how to configure an action for Journey Orchestration and how to use it in a journey.
+feature: Actions
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
+role: Administrator
 ---
 
 # Configure [!UICONTROL custom actions]

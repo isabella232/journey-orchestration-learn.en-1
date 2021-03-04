@@ -1,13 +1,14 @@
 ---
 title: Using segment qualification events
-description: This video gives you a brief introduction on where to configure segments and how to configure a Segment Qualification event in a journey.
-feature: Journey Orchestration
+description: Learn where to configure segments and how to configure a segment qualification event in a journey.
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Business Practitioner, Administrator
 ---
 
 # Using segment qualification events
