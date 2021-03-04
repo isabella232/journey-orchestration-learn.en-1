@@ -1,13 +1,14 @@
 ---
 title:  Validate and publish a Journey
-description: You can test your journey before its publication, using test profiles. This allows you to analyze how individuals flow in the journey and troubleshoot before publication.
-feature: Journey Orchestration
+description: "Learn how to test your journey before its publication, using test profiles. "
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
+role: "Business Practitioner, Administrator"
 ---
 
 # Validate and publish a journey

@@ -1,13 +1,14 @@
 ---
 title: Analyze a journey via reporting tools
-description: This tutorial explains how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.
-feature: Journey Orchestration
+description: "Learn how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use."
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: "Business Practitioner, Administrator"
 ---
 
 # Analyze a journey via reporting tools
