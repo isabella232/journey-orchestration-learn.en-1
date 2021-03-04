@@ -1,15 +1,27 @@
-"filename","title","description","feature","topic","role","level"
-"./metadata.md","","","","","",""
-"./help/journey-orchestration-main/TOC.md","","","","","",""
-"./help/overview.md","Journey Orchestration Tutorials - Overview","Journey Orchestration allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources","","","",""
-"./help/understanding-journey-orchestration.md","Understanding Journey Orchestration"," Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works.","Journey Orchestration","","",""
-"./help/configuring-journey-orchestration/configure-streaming-events.md","Configure streaming events for Adobe Journey Orchestration","This video explains how to configure XDM schemas and datasets for Journey Orchestration events, define an event in Journey Orchestration ,and configure source systems to stream events","Journey Orchestration","","",""
-"./help/using-segment-qualification-events.md","Using segment qualification events","This video gives you a brief introduction on where to configure segments and how to configure a Segment Qualification event in a journey.","Journey Orchestration","","",""
-"./help/configuring-journey-orchestration/configure-data-sources.md","Configure Data Sources for Adobe Journey Orchestration","Journey Orchestration allows you to connect to the Adobe Experience Platform or other third-party systems to retrieve additional information. This tutorial explains how to configure Experience Platform Data Source, configure an external data source, find and use data in a journey.","Journey Orchestration","","",""
-"./help/configuring-journey-orchestration/configure-actions.md","Configure Actions for Adobe Journey Orchestration","The video explains how to configure an Action for Journey Orchestration and how to use it in a journey.","Journey Orchestration","","",""
-"./help/building-a-journey/creating-a-journey.md","Create a journey with Adobe Journey Orchestration","The following video below explains how to create a new journey, start with an event, use orchestrations controls to control the flow and timing of a journey, and use Actions to engage at points in the journey.","Journey Orchestration","","",""
-"./help/building-a-journey/jumping-to-another-journey.md","Jumping to another journey","Learn how to push individuals from one journey to another. ","Journey Orchestration","","",""
-"./help/validate-and-publish-a-journey.md"," Validate and publish a Journey","You can test your journey before its publication, using test profiles. This allows you to analyze how individuals flow in the journey and troubleshoot before publication.","Journey Orchestration","","",""
-"./help/analyze-a-journey-via-reporting-tools.md","Analyze a journey via reporting tools","This tutorial explains how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.","Journey Orchestration","","",""
-"./help/reporting-step-events-to-adobe-experience-platform.md","Reporting journey step events to Adobe Experience Platform ","The following video explains what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.","Journey Orchestration","","",""
-"./help/how-to-find-help-with-journey-orchestration.md","How to find help with Journey Orchestration","The video explains how you can easily find help","Journey Orchestration","","",""
+filename,title,description,feature,topic,role,level
+./metadata.md,,,,,,
+./help/journey-orchestration-main/TOC.md,,,,,,
+./help/overview.md,Journey Orchestration Tutorials - Overview,Journey Orchestration allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources,,,"Business Practitioner, Administrator",Beginner
+./help/understanding-journey-orchestration.md,Understanding Journey Orchestration,"Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works.",Overview,,"Business Practitioner, Administrator",Beginner
+./help/configuring-journey-orchestration/configure-streaming-events.md,Configure streaming events for Adobe Journey Orchestration,"Learn how to configure XDM schemas and datasets for Journey Orchestration events, define an event in Journey Orchestration ,and configure source systems to stream events","Data Sources, Events, Schemas",,Administrator,Beginner
+./help/using-segment-qualification-events.md,Using segment qualification events,Learn where to configure segments and how to configure a segment qualification event in a journey.,"Segments, Events",,"Business Practitioner, Administrator",Beginner
+./help/configuring-journey-orchestration/configure-data-sources.md,Configure Data Sources for Adobe Journey Orchestration,"Learn how to configure Experience Platform Data Source, configure an external data source, and find and use data in a journey.",Data Sources,,Administrator,Beginner
+./help/configuring-journey-orchestration/configure-actions.md,Configure Actions for Adobe Journey Orchestration,Learn how to configure an action for Journey Orchestration and how to use it in a journey.,Actions,,Administrator,Beginner
+./help/building-a-journey/creating-a-journey.md,Create a journey with Adobe Journey Orchestration,"Learn how to create a new journey, start with an event, use orchestrations controls to control the flow and timing of a journey, and use Actions to engage at points in the journey.",Journeys,,"Business Practitioner, Administrator",Beginner
+./help/building-a-journey/jumping-to-another-journey.md,Jumping to another journey,Learn how to push individuals from one journey to another. ,Journeys,,"Business Practitioner, Administrator",Beginner
+./help/validate-and-publish-a-journey.md, Validate and publish a Journey,"Learn how to test your journey before its publication, using test profiles. ",Journeys,,"Business Practitioner, Administrator",Beginner
+./help/analyze-a-journey-via-reporting-tools.md,Analyze a journey via reporting tools,"Learn how to navigate to reporting for your journey, how to customize date ranges for your report and how to save a reporting template for future use.",Reports,,"Business Practitioner, Administrator",Beginner
+./help/reporting-step-events-to-adobe-experience-platform.md,Reporting journey step events to Adobe Experience Platform ,Understand what journey step events are and which data steps are and how to explore them.,Journeys,,"Business Practitioner, Administrator",Beginner
+./help/how-to-find-help-with-journey-orchestration.md,How to find help with Journey Orchestration,Understand how you can easily find help,Overview,,"Business Practitioner, Administrator",Beginner
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
