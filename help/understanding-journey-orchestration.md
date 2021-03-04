@@ -8,7 +8,7 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Understanding [!UICONTROL Journey Orchestration]

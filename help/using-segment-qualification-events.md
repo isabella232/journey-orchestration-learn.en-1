@@ -1,14 +1,14 @@
 ---
 title: Using segment qualification events
 description: Learn where to configure segments and how to configure a segment qualification event in a journey.
-feature: "Segments, Events"
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Using segment qualification events

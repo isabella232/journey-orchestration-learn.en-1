@@ -8,7 +8,7 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Reporting step events to [!UICONTROL Adobe Experience Platform ]

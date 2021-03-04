@@ -8,7 +8,7 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Create a journey

@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Jumping to another journey

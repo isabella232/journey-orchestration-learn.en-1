@@ -8,7 +8,7 @@ thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: "Business Practitioner, Administrator"
+role: Business Practitioner, Administrator
 ---
 
 # Validate and publish a journey
