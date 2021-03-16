@@ -23,6 +23,7 @@ level: Beginner
 + Build a journey {#building-a-journey}
   + [Creating a journey](/help/building-a-journey/creating-a-journey.md)
   + [Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)
+  + [Update profile action](/help/building-a-journey/update-profile-action.md)
 + [Validate and publish a journey](/help/validate-and-publish-a-journey.md)
 + [Analyzing a journey via reporting tools](/help/analyze-a-journey-via-reporting-tools.md)
 + [Reporting journey step events to Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)

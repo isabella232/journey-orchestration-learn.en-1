@@ -11,6 +11,7 @@ role: Business Practitioner, Administrator
 
 ## What's new
 
+* **[Update profile action](/help/building-a-journey/update-profile-action.md)**
 * **[Jumping to another journey](/help/building-a-journey/jumping-to-another-journey.md)**
     <br>
     *Learn how to push individuals from one journey to another.*
