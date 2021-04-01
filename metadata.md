@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: journey orchestration
 solution: Journey Orchestration
 feature-set: Journey Orchestration
