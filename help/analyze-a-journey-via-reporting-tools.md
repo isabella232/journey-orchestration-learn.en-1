@@ -9,8 +9,8 @@ audience: user
 doc-type: video
 activity: use
 role: Business Practitioner, Administrator
+exl-id: f6f13fba-d815-424f-86e5-918577609882
 ---
-
 # Analyze a journey via reporting tools
 
 The following video below explains how to:

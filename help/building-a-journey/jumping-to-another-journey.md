@@ -10,8 +10,8 @@ doc-type: video
 activity: use
 team: PM
 role: Business Practitioner, Administrator
+exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 ---
-
 # Jumping to another journey
 
 Learn how to push individuals from one journey to another.
@@ -26,4 +26,3 @@ The Jump action activity allows you to:
 ## Additional resources
 
 * [Jumping from one journey to another (product documentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
-  

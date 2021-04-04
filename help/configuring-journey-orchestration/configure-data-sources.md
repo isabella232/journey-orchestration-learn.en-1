@@ -9,8 +9,8 @@ audience: developer
 doc-type: video
 activity: setup
 role: Administrator
+exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 ---
-
 # Configure data sources
 
 [!UICONTROL Journey Orchestration] allows you to connect to Adobe Experience Platform or other third-party data sources to retrieve additional information that can be used in a journey for:

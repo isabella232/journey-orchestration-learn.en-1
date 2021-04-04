@@ -7,8 +7,8 @@ thumbnail: 332112.jpg
 role: Business Practitioner
 activity: use
 team: PM
+exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
 ---
-
 # Update profile action
 
 Learn how to update an existing Adobe Experience Platform profile with information coming from an event, a datasource, or using a specific value.

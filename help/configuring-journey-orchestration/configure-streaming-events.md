@@ -9,8 +9,8 @@ audience: developer
 doc-type: video
 activity: setup
 role: Administrator
+exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 ---
-
 # Configure streaming events
 
 [!UICONTROL Journey Orchestration] listens to events and orchestrates the best next actions within the customer's journey based on these events. An event can relate to:

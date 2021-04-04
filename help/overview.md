@@ -3,8 +3,8 @@ title: Journey Orchestration Tutorials - Overview
 description: Journey Orchestration allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources
 products: Journey orchestration
 role: Business Practitioner, Administrator
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 ---
-
 # Overview
 
 [!UICONTROL Journey Orchestration] is an application service integrated with the Adobe Experience Platform. It allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources.
@@ -66,4 +66,3 @@ role: Business Practitioner, Administrator
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
-  

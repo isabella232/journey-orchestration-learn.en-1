@@ -9,8 +9,8 @@ audience: developer
 doc-type: video
 activity: setup
 role: Administrator
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
 ---
-
 # Configure [!UICONTROL custom actions]
 
 [!UICONTROL Actions] are the touch-point in [!UICONTROL Journey Orchestration] through which you deliver personalized, real-time experiences to individuals. These can include traditional messaging channels, such as push notifications, email, or SMS, or any other means of digital engagement you use in your business.

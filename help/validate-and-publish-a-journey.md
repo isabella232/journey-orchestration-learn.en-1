@@ -9,8 +9,8 @@ audience: user
 doc-type: video
 activity: use
 role: Business Practitioner, Administrator
+exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
 ---
-
 # Validate and publish a journey
 
 You can test your journey before its publication, using test profiles. This allows you to analyze how individuals flow through the journey and to troubleshoot before publication.
