@@ -8,7 +8,7 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 ---
 # Using segment qualification events

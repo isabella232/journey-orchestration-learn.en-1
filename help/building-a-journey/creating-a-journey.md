@@ -8,7 +8,7 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 ---
 # Create a journey

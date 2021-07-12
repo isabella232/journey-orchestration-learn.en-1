@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 ---
 # Jumping to another journey

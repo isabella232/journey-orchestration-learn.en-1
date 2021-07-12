@@ -8,7 +8,7 @@ thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
+role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 ---
 # Configure streaming events

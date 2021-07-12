@@ -8,7 +8,7 @@ thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: 80fb9247-1e11-4eae-ab1e-b76f004714ed
 ---
 # How to find help with [!UICONTROL Journey Orchestration]

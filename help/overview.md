@@ -2,7 +2,7 @@
 title: Journey Orchestration Tutorials - Overview
 description: Journey Orchestration allows you to build real-time orchestration use cases leveraging contextual data stored in events or data sources
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 ---
 # Overview

@@ -4,7 +4,7 @@ description: Learn how to update an existing Adobe Experience Platform profile w
 feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: Business Practitioner
+role: User
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

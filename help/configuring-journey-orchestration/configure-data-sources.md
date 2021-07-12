@@ -8,7 +8,7 @@ thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
+role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 ---
 # Configure data sources

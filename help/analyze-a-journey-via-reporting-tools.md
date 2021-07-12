@@ -8,7 +8,7 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 ---
 # Analyze a journey via reporting tools

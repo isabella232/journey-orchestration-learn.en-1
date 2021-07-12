@@ -8,7 +8,7 @@ thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
+role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
 ---
 # Configure [!UICONTROL custom actions]
