@@ -13,7 +13,7 @@ exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 ---
 # Using segment qualification events
 
-A segment qualification event allows your journey to listen to the entrances and exits of profiles in Adobe Experience Platform segments in order to make individuals enter or move forward in a journey.
+A segment qualification event allows your journey to listen to the entrances and exits of profiles in Adobe Experience Platform segments. This event type is used to make individuals enter or move forward in a journey.
 
 Example use cases could be:
 

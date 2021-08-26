@@ -13,7 +13,7 @@ exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
 ---
 # Validate and publish a journey
 
-You can test your journey before its publication, using test profiles. This allows you to analyze how individuals flow through the journey and to troubleshoot before publication.
+You can test your journey before its publication, using test profiles. Testing the journey allows you to analyze how individuals flow through the journey and to troubleshoot before publication.
 
 The following video below explains how to:
 
@@ -24,6 +24,6 @@ The following video below explains how to:
 
 ## Additional resources
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-  * [Testing the journey](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
-  * [Publishing the journey](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
+* [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en):
+  * [Testing the journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+  * [Publishing the journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
