@@ -1,6 +1,6 @@
 ---
 title: Understanding Journey Orchestration
-description: "Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works."
+description: Understand the concept of Journey Orchestration, the types of use cases it enables and the key elements of how Journey Orchestration works.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,8 +9,8 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 ---
-
 # Understanding [!UICONTROL Journey Orchestration]
 
 ## Introduction to [!UICONTROL Journey Orchestration]
@@ -52,4 +52,3 @@ The main steps in preparation for building journeys are:
 * [How to find help with Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK - Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
-
